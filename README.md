@@ -1,2 +1,2 @@
 # wics-workshop
-workshop for wics and devup
+workshop for WiCS and DevUp
